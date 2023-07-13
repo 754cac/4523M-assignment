@@ -91,7 +91,7 @@ Based on the feedback from the teacher on this project, there are a few areas th
 
 2. Promtp Message: When the user inputted the wrong password I should display a warning message so the user can know that login was rejected due to an incorrect password. Also when the user wants to change account information I should prompt his password to the update information to avoid unwanted updates.
 
-3. Display Discounted Price: When the user wants to checkout the order I should add a transition page to the item selected and the discounted price, so the user doesn't need to view the discounted price in the view order record page.
+3. Display Discounted Price: When the user wants to checkout the order I should add a transition page to display the items selected and the discounted price, so the user doesn't need to view the discounted price in the view order record page.
 
 4. Code Readability and Understanding: Comments help in making the code more readable and understandable for other developers who may be working on the project in the future. By adding comments, it becomes easier to comprehend the purpose and functionality of different sections of code.
 
