@@ -50,7 +50,7 @@ d. Delete Order record
   - A confirmation message should be displayed to let the user decide whether the selected order should be deleted.
   - The order can only be deleted two days before the receipt delivery date.
 
-### Python Plug-in: Discount Calculator (Function: 10 marks)
+### Python Plug-in: Discount Calculator
 
 Develop a simple Python flask application running on port 80 to determine the discount percentage based on the Total Order Amount. The RESTful API should accept the HTTP GET request and send the required response (in JSON format) from the Python program.
 #### Introduction
